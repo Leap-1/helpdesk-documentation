@@ -18,11 +18,9 @@ User requested a legal name change due to marriage. Required updating display na
 
 ## Screenshots
 
-![Profile Update](profile-update.png)
-
 **Figure 1: Updated User Profile in Master Directory**  
 
-
+![Profile Update](profile-update.png)
 
 *Updated profile showing new display name, primary email, and legacy email configured as an alias.*
 
